@@ -1,0 +1,30 @@
+.product {
+    width: 100%;
+}
+
+.product-link-add {
+    font-size: 13px;
+}
+
+.product-name {
+    color: #FF7F00;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.product-price {
+    color: #424955;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.product-image {
+    img {
+        border-top-left-radius: 24px;
+        border-top-right-radius: 24px;
+    }
+}
+
+.product-feedback-number {
+    font-size: 13px;
+}

@@ -1,0 +1,17 @@
+.bg-service {
+    background: url("https://firebasestorage.googleapis.com/v0/b/la-spa-booking-system.appspot.com/o/HomePg%2FServiceSt%2Fservice1.png?alt=media&token=79555938-8435-4db5-94ee-62163e773bbc");
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+    border-radius: 50%;
+}
+
+.top-layer {
+    background-color: #FFFFFF;
+    padding: 150px;
+    border-radius: 50%;
+}
+
+.service {
+    width: 50%;
+}

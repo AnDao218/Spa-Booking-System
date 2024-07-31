@@ -1,0 +1,18 @@
+/*ALL ICONS*/
+.svg-icon path {
+    transition: stroke 0.3s ease;
+}
+
+.svg-icon:hover path {
+    stroke: #954C12;
+}
+
+
+/*RATING STAR ICON ONLY */
+.svg-icon-rating {
+    display: inline-block;
+}
+
+.svg-icon-rating:hover path {
+    fill: #FF7F00;
+}
